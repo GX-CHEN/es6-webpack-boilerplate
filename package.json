@@ -1,6 +1,6 @@
 {
   "name": "es6-webpack-boilerplate",
-  "version": "4.0.0",
+  "version": "1.0.0",
   "description": "es6 webpack boilerplate with unit test/formatter/linter setup",
   "author": "Gongxia Chen",
   "license": "MIT",
