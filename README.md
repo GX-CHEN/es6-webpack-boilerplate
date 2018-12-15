@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/GX-CHEN/es6-webpack-boilerplate.svg?token=TjRT75tPqCZDDBcbVzhP&branch=master)](https://travis-ci.com/GX-CHEN/es6-webpack-boilerplate)
+
 # es6 webpack boilerplate
 
 This boilerplate is based on open-source project https://github.com/cvgellhorn/webpack-boilerplate. The additional setup including:
