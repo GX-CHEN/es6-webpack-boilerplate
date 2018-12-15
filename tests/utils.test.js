@@ -1,6 +1,6 @@
 import { say } from '../src/utils';
 
-describe('test functions', () => {
+describe('test util functions', () => {
   test('test say()', () => {
     expect(say()).toBe('hello world');
   });

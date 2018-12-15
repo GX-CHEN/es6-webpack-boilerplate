@@ -1,8 +1,15 @@
 # es6 webpack boilerplate
 
-es6 webpack boilerplate with unit test/formatter/linter setup
+This boilerplate is based on open-source project https://github.com/cvgellhorn/webpack-boilerplate. The additional setup including:
+
+1. unit test with Jest
+2. formatter using prettier
+3. linter setup using ESLint
+4. Automatic open project link in browser
 
 ## Setup
+
+Install required dependencies by running the following command. Notice it requires installation of NodeJS (8.x or higher) and npm (4.x or higher).
 
 ```sh
 $ npm install
